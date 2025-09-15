@@ -1,0 +1,10 @@
+{
+  "name": "Test LumiiShift App",
+  "description": "Run the LumiiShift Streamlit app for testing",
+  "trigger": "manual",
+  "icon": "play",
+  "instructions": "Start the Streamlit development server for LumiiShift app testing. Check for any errors and ensure the app loads correctly.",
+  "commands": [
+    "streamlit run Scripts/lumii.py --server.port 8501"
+  ]
+}
