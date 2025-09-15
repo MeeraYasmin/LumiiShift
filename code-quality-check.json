@@ -1,0 +1,8 @@
+{
+  "name": "Code Quality Check",
+  "description": "Check Python code quality and formatting",
+  "trigger": "manual",
+  "icon": "check-circle",
+  "instructions": "Run code quality checks on the LumiiShift Python files. Check for PEP 8 compliance, potential issues, and suggest improvements.",
+  "files": ["Scripts/lumii.py"]
+}
